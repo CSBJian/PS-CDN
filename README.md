@@ -1,3 +1,3 @@
-# HISDCL 
+# PS-CDN 
 
-# Hierarchical Implicit Subclass Steered Debiased Contrastive Learning for Point Cloud Classification
+# Leaning Geometrical Diffusion Network via Power Spherical Distribution for Point Clouds Generation
